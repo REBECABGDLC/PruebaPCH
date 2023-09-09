@@ -1,2 +1,1 @@
-# PruebaPCH
-Este es un repositorio de prueba del modulo 2 del prep course de henrry
+ESTE ES UN PROYECTO DE PRUEBA DE COMO CREAR UN REPOSITORIO Y CLONARLO DESDE GITHUB A MI ESCRITORIO LOCAL
